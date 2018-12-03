@@ -1,0 +1,22 @@
+{
+  "name": "last-stat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Mcam"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/MACmidiDEV/last-stat",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "angular": "^1.7.5",
+    "angular-route": "^1.7.5"
+  }
+}
